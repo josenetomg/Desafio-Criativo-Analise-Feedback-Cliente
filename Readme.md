@@ -88,4 +88,3 @@ Se quiser testar agora mesmo, basta colar o bloco acima na IA e, no campo **"DAD
 > 
 > 
 
-Parabéns pelo design do prompt. Ele cumpre todos os requisitos de clareza, restrição de escopo e direcionamento de entrega!
