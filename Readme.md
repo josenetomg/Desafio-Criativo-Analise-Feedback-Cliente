@@ -10,7 +10,7 @@ Um bom prompt nasce de intenção clara, contexto e instruções específicas. D
 Cada etapa adicionará uma nova peça ao seu prompt final. Ao concluir todas, obtivemos um prompt capaz de orientar uma IA a produzir exatamente o que você imaginou.
 
 🚀 Como Resolvemos
-Siguimos  cada passo com atenção, registramos as respostas e, ao final, unimos todos os elementos para formar o prompt final.
+Seguimos  cada passo com atenção, registramos as respostas e, ao final, unimos todos os elementos para formar o prompt final.
 
 💡 Prompt Criado:
 
